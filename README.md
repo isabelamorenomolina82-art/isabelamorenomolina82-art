@@ -1,4 +1,4 @@
-# Hola, soy Isabela Moreno Molina 👋
+# Isabela Moreno Molina 👋
 
 🎓 Estudiante de Ingenieria en sistemas y telecomunicacion 
 Universidad de Manizales   
@@ -23,11 +23,6 @@ Universidad de Manizales
 - 🌐 Ejercicios de desarrollo web  
 
 ---
-
-## 📊 Mis estadísticas en GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabelamorenomolina82-art&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamorenomolina82-art&layout=compact)
 
 ---
 
