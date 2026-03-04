@@ -18,9 +18,9 @@ Universidad de Manizales
 
 ## 📌 Proyectos Destacados
 
-- 📄 Proyecto Final de Programación  
+- 📄 Proyecto Final de Inteligencia artificial 2025  
 - 💻 Trabajo práctico en HTML  
-- 🌐 Ejercicios de desarrollo web  
+- 🌐 Ejercicios de GIT 
 
 ---
 
